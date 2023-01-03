@@ -1,0 +1,13 @@
+SetWinEventHook
+EVENT_SYSTEM_FOREGROUND
+WINEVENT_OUTOFCONTEXT
+GetWindowThreadProcessId
+MMDeviceEnumerator
+IMMDeviceEnumerator
+IMMDevice
+ISimpleAudioVolume
+IAudioSessionEnumerator
+IAudioSessionControl2
+IAudioSessionManager2
+ERole
+EDataFlow
